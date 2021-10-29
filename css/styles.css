@@ -19,11 +19,27 @@
     font-family: sans-serif;
   }
   ul {
-    line-height: 30px;
+    line-height: 20px;
+  }
+  ol {
+    line-height: 20px;
   }
   body {
     color: #325050;
     background: #cde6e6;
     font-family: 'Libre Baskerville', sans-serif;
-}
+    }
+    .container {
+        padding: 10px;
+        border: 2px;
+      }
+      
+    .one {
+        width: 15%;
+        float: left;
+    }
+      
+    .two {
+        margin-left: 15%;
+    }
   
